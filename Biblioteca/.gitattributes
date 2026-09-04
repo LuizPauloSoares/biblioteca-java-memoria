@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+*.java text
+*.form text
+*.xml text
+*.properties text
+*.md text
+
+*.jar binary
+*.class binary
