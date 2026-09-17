@@ -5,10 +5,7 @@
 package biblioteca;
 import java.util.ArrayList;
 
-/**
- *
- * @author aline.fsprado1
- */
+
 public class GUI_Livro extends javax.swing.JFrame {
 
 

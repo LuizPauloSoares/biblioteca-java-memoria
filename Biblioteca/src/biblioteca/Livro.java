@@ -4,10 +4,7 @@
  */
 package biblioteca;
 
-/**
- *
- * @author aline.fsantos55
- */
+
 public class Livro {
 
     // ---------------------------------------------

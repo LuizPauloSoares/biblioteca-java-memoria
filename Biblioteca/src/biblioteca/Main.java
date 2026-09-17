@@ -4,10 +4,7 @@
  */
 package biblioteca;
 
-/**
- *
- * @author aline.fsantos55
- */
+
 
 // ---------------------------------------------
 // Classe Main para testar tudo

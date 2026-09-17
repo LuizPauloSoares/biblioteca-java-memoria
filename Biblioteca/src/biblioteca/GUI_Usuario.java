@@ -6,10 +6,7 @@ package biblioteca;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author aline.fsprado1
- */
+
 public class GUI_Usuario extends javax.swing.JFrame {
 
     private ArrayList<Usuario> listaUsuarios = new ArrayList<>();
